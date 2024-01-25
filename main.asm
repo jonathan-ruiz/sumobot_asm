@@ -3,7 +3,7 @@
 
 ;POR-HACER:
 ;chequeaSensores , ademas de tener encuenta la situacion de los sensores por separado
-;tambien deberia tener encuenta convinaciones de diferentes sensores activos asi como
+;tambien deberia tener encuenta combinaciones de diferentes sensores activos asi como
 ;el estado del registro ACCION, que nos indica la accion que se estaba realizando en 
 ;momento de la interrupcion
 
